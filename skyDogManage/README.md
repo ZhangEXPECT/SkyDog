@@ -1,4 +1,4 @@
-# skydog
+# ssm-demo
 
 ## Project setup
 ```
